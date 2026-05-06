@@ -10,3 +10,6 @@ I would not primarily use a unit test to test the full “message” feature bec
 2) Max message length feature
 
 I would use a unit test to test the “max message length” feature because it is a simple, self-contained rule. It only involves checking whether a message exceeds 80 characters, which does not depend on external systems. This makes it ideal for fast and reliable unit testing.
+
+(**Link to Expose**)[https://aegislock.github.io/Lab5_Starter/expose.html]
+(**Link to Explore)[https://aegislock.github.io/Lab5_Starter/explore.html]
