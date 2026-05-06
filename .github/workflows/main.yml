@@ -10,8 +10,5 @@ jobs: # the things being executed
       - name: Install Dependencies
         run: npm install
       - name: Unit Test
-<<<<<<< testing
         run: npm test ./__tests__/sum.test.js # the actual testing line
-=======
-        run: npm test ./__tests__/sum.test.js # the actual testing line
->>>>>>> master
+
